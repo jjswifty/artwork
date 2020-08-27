@@ -1,15 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.sass';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        Настроил окружение, начал работу
-      </header>
-    </div>
-  );
-}
+const App = () => (
+    
+        <div className="App">
+
+        </div>
+    
+)
 
 export default App;
